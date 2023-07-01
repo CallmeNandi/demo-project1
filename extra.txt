@@ -1,0 +1,2 @@
+download the dj33 app using code button which is green server
+then in cmd type python manage.py runserver
